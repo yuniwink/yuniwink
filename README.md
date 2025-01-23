@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .badge-container a {
-    text-decoration: none; /* 링크 밑줄 제거 (선택 사항) */
-  }
-</style>
+Using Skills
 
 <div class="badge-container">
   <a href="https://www.python.org/" target="_blank" style="display: inline-block; margin-right: 30px;">
