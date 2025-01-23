@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+</style>
+
+<style>
   .badge-container {
     display: flex;
     gap: 20px; /* 버튼 사이 여백 */
