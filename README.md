@@ -15,32 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-</style>
 
-<style>
-  .badge-container {
-    display: flex;
-    gap: 20px; /* 버튼 사이 여백 */
-  }
-  .badge-container a {
-    text-decoration: none; /* 링크 밑줄 제거 (선택 사항) */
-  }
-</style>
 
 <div class="badge-container">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
   </a>
 </div>
