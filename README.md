@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div style="display: flex; gap: 50px;">
+<div style="display: flex; gap: 200px;">
   <!-- Python 버튼 -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
