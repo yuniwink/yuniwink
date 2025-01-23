@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-</a>
+<div>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</div>
